@@ -1,3 +1,3 @@
-<h1> Challenge del Amigo Secreto</h1>
+<h1 align="center"> Challenge del Amigo Secreto</h1>
 
-- Proyecto terminado
+- Version final del challenge "Amigo Secreto" 
